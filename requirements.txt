@@ -28,3 +28,8 @@ Pillow
 pytube
 opencv-python-headless
 uvloop
+Flask
+gunicorn
+Jinja2
+werkzeug
+itsdangerous
